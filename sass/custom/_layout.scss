@@ -1,0 +1,28 @@
+article.post h2, article.post p {
+  max-width: 90% !important;
+}
+
+article.post figure {
+  max-width: 90% !important;
+}
+
+div.sharing-box {
+  width: 90% !important;
+  position: relative !important;
+  left: 0px !important;
+  top: 0px !important;
+  vertical-align: middle !important;
+}
+
+div.fb-like.fb_edge_widget_with_comment.fb_iframe_widget {
+	vertical-align: middle !important;
+	padding-top: 4px !important;
+}
+
+iframe.twitter-share-button.twitter-count-horizontal {
+	vertical-align: middle !important;
+}
+
+#disqus_thread {
+	max-width: 90% !important;
+}
